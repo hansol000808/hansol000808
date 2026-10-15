@@ -2,7 +2,7 @@
 
 ✉️ [hansol000808@gmail.com](mailto:hansol000808@gmail.com)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="18" height="18"> **[Portfolio | 한재혁](https://hansol000808.notion.site)** (프로젝트 소개, 주요 판단과 문제 해결 과정)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="18" height="18"> **[hansol000808.notion.site](https://hansol000808.notion.site)** (프로젝트 소개, 주요 판단과 문제 해결 과정)
 
 ## Education
 
