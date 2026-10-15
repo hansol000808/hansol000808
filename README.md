@@ -1,8 +1,8 @@
 # 한재혁 (Jaehyeok Han)
 
-[hansol000808@gmail.com](mailto:hansol000808@gmail.com)
+✉️ [hansol000808@gmail.com](mailto:hansol000808@gmail.com)
 
-**[Portfolio | 한재혁](https://www.notion.so/3faa5cbfe82e8172b7f5cf4a19cc1ef0)**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="18" height="18"> **[Portfolio | 한재혁](https://www.notion.so/3faa5cbfe82e8172b7f5cf4a19cc1ef0)**  
 프로젝트 소개와 주요 판단, 문제 해결 과정을 정리했습니다.
 
 ## Education
