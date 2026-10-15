@@ -1,8 +1,8 @@
-# 한재혁 · Jaehyeok Han
+# 한재혁 (Jaehyeok Han)
 
-[hansol000808@gmail.com](mailto:hansol000808@gmail.com) · [GitHub](https://github.com/hansol000808)
+[hansol000808@gmail.com](mailto:hansol000808@gmail.com)
 
-## 학력
+## Education
 
 ### 중앙대학교
 
@@ -16,14 +16,14 @@
 
 2016.03 ~ 2019.02 · 졸업
 
-## 어학
+## Languages
 
 | 취득일 | 시험 | 성적 |
 | :--- | :--- | :--- |
 | 2026.02 | TOEIC Speaking | IH (140) |
 | 2021.02 | TOEIC | 905 |
 
-## 자격증
+## Certifications
 
 | 취득일 | 자격증 |
 | :--- | :--- |
@@ -33,7 +33,7 @@
 | 2026.03 | SQL 개발자 (SQLD) |
 | 2022.08 | 한국사능력검정시험 1급 |
 
-## 기술 스택
+## Skills
 
 | 구분 | 기술 |
 | :--- | :--- |
