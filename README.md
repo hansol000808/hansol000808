@@ -18,27 +18,27 @@
 
 ## Languages
 
-| 취득일 | 시험 | 성적 |
-| :--- | :--- | :--- |
-| 2026.02 | TOEIC Speaking | IH (140) |
-| 2021.02 | TOEIC | 905 |
+<table>
+  <tr><td>2026.02</td><td>TOEIC Speaking</td><td>IH (140)</td></tr>
+  <tr><td>2021.02</td><td>TOEIC</td><td>905</td></tr>
+</table>
 
 ## Certifications
 
-| 취득일 | 자격증 |
-| :--- | :--- |
-| 2026.09 | 정보처리기사 |
-| 2026.08 | 데이터 분석 준전문가 (ADsP) |
-| 2026.05 | TOPCIT 수준3 (619) |
-| 2026.03 | SQL 개발자 (SQLD) |
-| 2022.08 | 한국사능력검정시험 1급 |
+<table>
+  <tr><td>2026.09</td><td>정보처리기사</td></tr>
+  <tr><td>2026.08</td><td>데이터 분석 준전문가 (ADsP)</td></tr>
+  <tr><td>2026.05</td><td>TOPCIT 수준3 (619)</td></tr>
+  <tr><td>2026.03</td><td>SQL 개발자 (SQLD)</td></tr>
+  <tr><td>2022.08</td><td>한국사능력검정시험 1급</td></tr>
+</table>
 
 ## Skills
 
-| 구분 | 기술 |
-| :--- | :--- |
-| Programming Language | Python, C, Java, JavaScript |
-| Framework / Library | Spring, Numpy, Pandas, Matplotlib, Folium |
-| Database | MySQL |
-| Game Engine | Unity, Unreal Engine |
-| Collaboration Tools | GitHub, Notion |
+<table>
+  <tr><td>Programming Language</td><td>Python, C, Java, JavaScript</td></tr>
+  <tr><td>Framework / Library</td><td>Spring, Numpy, Pandas, Matplotlib, Folium</td></tr>
+  <tr><td>Database</td><td>MySQL</td></tr>
+  <tr><td>Game Engine</td><td>Unity, Unreal Engine</td></tr>
+  <tr><td>Collaboration Tools</td><td>GitHub, Notion</td></tr>
+</table>
